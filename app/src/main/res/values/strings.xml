@@ -1,3 +1,4 @@
-<resources>
-    <string name="app_name">AndroidMayakova</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">AndroidMayakova</string>
+    <string name="star" translatable="false">star</string>
 </resources>
